@@ -1,0 +1,32 @@
+templates:
+  utter_any_other_question_0_8:
+    - text: "Do you have any other health related issues other than this?"
+  utter_ask_booking_or_question_0_2:
+    - text: "Want to book an appointment or you have any health related question?"
+      buttons:
+      - title: "Appointment"
+        payload: /select_booking_0_2
+      - title: "Health Related Question"
+        payload: /select_question_0_8
+  utter_ask_date_and_month_0_5:
+    - text: Which date and month you want to book
+  utter_ask_doctor_name_0_4:
+    - text: The recommended doctor as per your requirements are 
+      buttons:
+      - title: "Dr. Gupta"
+        payload: "Dr. Gupta"
+      - title: "Dr. Ray"
+        payload: "Dr. Ray"
+  utter_loose_motion_1_8:
+    - text: Since you have loose motions, drink electrolyted water.
+  utter_loose_motion_1_8c:
+    - text: Since you have loose motions, drink electrolyted water.
+
+
+
+
+
+
+
+
+

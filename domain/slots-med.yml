@@ -1,0 +1,11 @@
+slots:
+  date:
+    type: text
+  doctor_name:
+    type: unfeaturized
+  month:
+    type: text
+  speciality:
+    type: text
+  time:
+    type: text

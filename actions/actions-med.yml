@@ -1,0 +1,7 @@
+actions:
+- utter_any_other_question_0_8
+- utter_ask_booking_or_question_0_2
+- utter_ask_date_and_month_0_5
+- utter_ask_doctor_name_0_4
+- utter_ask_doctor_speciality_0_3
+- utter_stomach_1_6

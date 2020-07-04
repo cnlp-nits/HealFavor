@@ -1,0 +1,6 @@
+entities:
+- date
+- doctor_name
+- month
+- time
+- speciality
